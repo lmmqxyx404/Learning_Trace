@@ -1,0 +1,6 @@
+[book]
+authors = ["lmmqxyx"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learning Trace"
